@@ -21,3 +21,7 @@ What is our workflow?
 - IDE:
 - Test framework(s):
 - other tools:
+
+## Commits
+
+- How frequently?

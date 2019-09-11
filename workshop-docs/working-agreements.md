@@ -15,13 +15,15 @@
 
 What is our workflow?
 
+We will TDD this project!
+
 ## Programming language & tools
 
-- Programming language: 
-- IDE:
-- Test framework(s):
-- other tools:
+- Programming language: Javascript
+- IDE: VSCODE
+- Test framework(s): Mocha
+- other tools: Let's check in on this
 
 ## Commits
 
-- How frequently?
+- How frequently? Frequently. When tests are passing. When there's a new failing test.

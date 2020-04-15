@@ -13,16 +13,11 @@
 
 ## To TDD or not to TDD
 
-What is our workflow?
-
 We will TDD this project!
 
 ## Programming language & tools
 
-- Programming language: Javascript
-- IDE: VSCODE
-- Test framework(s): Mocha
-- other tools: Let's check in on this
+- Cyber-dojo
 
 ## Commits
 
